@@ -3,21 +3,12 @@
 This GitHub repository showcases some of the major projects I've been working on while learning and growing. My dream is to become a full-stack developer, and right now, I'm focusing on building my skills in front-end development.
 
 ### I like take photo
-<div display="flex" justify-content="space-around" flex-wrap="wrap">
-  <div>
-    <img src="./Image/scene1.jpg" alt="Your Image" width="300" height="200" object-fit="cover" object-fit="cover"/>
-  </div>
-  
-  <div>
-    <img src="./Image/scene2.jpg" alt="Your Image" width="300" height="200" object-fit="cover object-fit="cover"/>
-  </div>
-  
-  <div>
-    <img src="./Image/scene3.jpg" alt="Your Image" width="300" height="200" object-fit="cover object-fit="cover"/>
-  </div>
-  
-  <div>
-    <img src="./Image/scene4.jpg" alt="Your Image" width="300" height="200" object-fit="cover object-fit="cover"/>
+<div align="center">
+  <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+    <img src="scene1.jpg" alt="Scene 1" width="300px" height="200px" style="object-fit: cover;"/>
+    <img src="scene2.jpg" alt="Scene 2" width="300px" height="200px" style="object-fit: cover;"/>
+    <img src="scene3.jpg" alt="Scene 3" width="300px" height="200px" style="object-fit: cover;"/>
+    <img src="scene4.jpg" alt="Scene 4" width="300px" height="200px" style="object-fit: cover;"/>
   </div>
 </div>
 
