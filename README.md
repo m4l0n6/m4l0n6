@@ -11,6 +11,6 @@ This GitHub repository showcases some of the major projects I've been working on
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4l0n6&layout=compact)
   
   ### Streak Stats
-  ![![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=m4l0n6&theme=dark&locale=vi&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=m4l0n6&theme=blue-navy&hide_border=true&locale=vi&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 </div>
 
