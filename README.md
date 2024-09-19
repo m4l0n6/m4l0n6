@@ -3,7 +3,9 @@
 This GitHub repository showcases some of the major projects I've been working on while learning and growing. My dream is to become a full-stack developer, and right now, I'm focusing on building my skills in front-end development.
 
 I like take photo
-<img src="./Image/scene1.jpg" alt="Your Image" width="300" object-fit="cover"/>
+<div>
+  <img src="./Image/scene1.jpg" alt="Your Image" width="300" object-fit="cover"/>
+</div>
 
   ### My GitHub Stats
   ![Long's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m4l0n6&show_icons=true&theme=blue-navy)
