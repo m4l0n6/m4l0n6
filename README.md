@@ -4,7 +4,7 @@ This GitHub repository showcases some of the major projects I've been working on
 
 ### I like take photo
 <div align="center">
-  <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+  <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <img src="./Image/scene1.jpg" alt="Scene 1" width="300px" height="200px" style="object-fit: cover;"/>
     <img src="./Image/scene2.jpg" alt="Scene 2" width="300px" height="200px" style="object-fit: cover;"/>
     <img src="./Image/scene3.jpg" alt="Scene 3" width="300px" height="200px" style="object-fit: cover;"/>
