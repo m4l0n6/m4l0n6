@@ -13,12 +13,22 @@ This GitHub repository showcases some of the major projects I've been working on
 </div>
 
 ### My GitHub Stats
+<div align="center">
+  
   ![Long's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m4l0n6&show_icons=true&theme=dark)
+</div>
   
-  ### Most Used Languages
+### Most Used Languages
+<div align="center">
+
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4l0n6&layout=compact&theme=dark)
-  
+</div>
+
 ### Streak Stats
+<div align="center">
+
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=m4l0n6&theme=blue-navy&hide_border=true&locale=en&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+</div>
+  
 
 
