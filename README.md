@@ -13,7 +13,7 @@ This GitHub repository showcases some of the major projects I've been working on
 </div>
 
 ### My GitHub Stats
-  ![Long's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m4l0n6&show_icons=true&theme=blue-navy)
+  ![Long's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m4l0n6&show_icons=true&theme=radical)
   
   ### Most Used Languages
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4l0n6&layout=compact)
