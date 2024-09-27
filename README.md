@@ -22,12 +22,16 @@ This GitHub repository showcases some of the major projects I've been working on
 <div align="center">
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4l0n6&layout=compact&theme=dark)
-</div>
 
 ### Streak Stats
 <div align="center">
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=m4l0n6&theme=blue-navy&hide_border=true&locale=en&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+</div>
+
+<div align="center>
+  
+  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31yhmknkuytpczzegq4kmxipfjuy&width=600)
 </div>
   
 
