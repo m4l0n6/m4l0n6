@@ -22,7 +22,7 @@ This GitHub repository showcases some of the major projects I've been working on
 ### Spotify recently played
 <div align="center>
   
-  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31yhmknkuytpczzegq4kmxipfjuy&width=600)
+  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31yhmknkuytpczzegq4kmxipfjuy)
 </div>
   
 
