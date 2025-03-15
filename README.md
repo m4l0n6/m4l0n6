@@ -7,7 +7,7 @@
 <h2 align="left">Hi 👋! My name is Long Ma and I'm a VietNam's Web3 Developer</h2>
 
 # 💫 About Me:
-I’m currently learning web3<br>
+I'm a second year student majoring in Bachelor of Applied Information Technology at PTIT.<br>
 
 
 # 💻 Tech Stack:
