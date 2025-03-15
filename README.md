@@ -12,6 +12,7 @@ This GitHub repository showcases some of the major projects I've been working on
 <div align="center">
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4l0n6&layout=compact&theme=dark)
+</div>
 
 ### My Roadmap
 [![roadmap.sh](https://roadmap.sh/card/tall/66f952a8c45e253cb0466c10?variant=dark&roadmaps=frontend%2C67b2bd7b98abd86c99d77ab1)](https://roadmap.sh)
