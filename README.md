@@ -1,4 +1,10 @@
-<h2 align="left">Hi 👋! My name is Long Ma and I'm a Web3 developer, from VietNam</h2>
+<div align="center">
+  <img height="300" src="https://media.licdn.com/dms/image/v2/C4E12AQF9ddXxzFrCzA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1646052744426?e=2147483647&v=beta&t=mQkgr0MDwqzawS87DX4vc1YafX48AJC769ZxM59IQmM"  />
+</div>
+
+###
+
+<h2 align="left">Hi 👋! My name is Long Ma and I'm a VietNam's Web3 Developer</h2>
 
 ###
 
@@ -32,6 +38,9 @@
 
 ###
 
-<img src="https://i.ibb.co/60zHcpW7/481484476-1380071839851114-8623181905203094008-n.jpg" alt="481484476-1380071839851114-8623181905203094008-n" border="0">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=m4l0n6&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m4l0n6&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
