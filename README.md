@@ -16,11 +16,7 @@ This GitHub repository showcases some of the major projects I've been working on
 ### My Roadmap
 [![roadmap.sh](https://roadmap.sh/card/tall/66f952a8c45e253cb0466c10?variant=dark&roadmaps=frontend%2C67b2bd7b98abd86c99d77ab1)](https://roadmap.sh)
 
-### Streak Stats
-<div align="center">
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=m4l0n6&theme=blue-navy&hide_border=true&locale=en&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-</div>
 
   
 
