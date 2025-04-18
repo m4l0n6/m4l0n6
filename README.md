@@ -16,4 +16,4 @@ I'm a second year student majoring in Bachelor of Applied Information Technology
 ###
 
 # My roadmap
-[![roadmap.sh](https://roadmap.sh/card/tall/66f952a8c45e253cb0466c10?variant=dark&roadmaps=frontend%2C67b2bd7b98abd86c99d77ab1%2Cblockchain)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/66f952a8c45e253cb0466c10?variant=dark)](https://roadmap.sh)
