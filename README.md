@@ -1,10 +1,5 @@
-<div align="center">
-  <img height="300" src="https://media.licdn.com/dms/image/v2/C4E12AQF9ddXxzFrCzA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1646052744426?e=2147483647&v=beta&t=mQkgr0MDwqzawS87DX4vc1YafX48AJC769ZxM59IQmM"  />
-</div>
 
-###
-
-<h2 align="left">Hi 👋! My name is Long Ma and I'm a VietNam's Web3 Developer</h2>
+<h2 align="left">Hi 👋! My name is Long Ma and I'm studying to fullstack developer</h2>
 
 # 💫 About Me:
 I'm a second year student majoring in Bachelor of Applied Information Technology at PTIT.<br>
