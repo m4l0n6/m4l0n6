@@ -2,7 +2,7 @@
 <h2 align="left">Hi 👋! My name is Long Ma and I'm studying to fullstack developer</h2>
 
 # About Me:
-I'm a second year student majoring in Bachelor of Applied Information Technology at PTIT.<br>
+I'm Final year student majoring in Bachelor of Applied Information Technology at PTIT.<br>
 
 
 # Tech Stack:
