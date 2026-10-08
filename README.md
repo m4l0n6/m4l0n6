@@ -1,6 +1,8 @@
 
 <h2 align="left">Hi 👋! My name is Long Ma and I'm studying to fullstack developer</h2>
 
+<img src="./Image/banner.gif" />
+
 # About Me:
 I'm final year student majoring in Bachelor of Applied Information Technology at PTIT.<br>
 
